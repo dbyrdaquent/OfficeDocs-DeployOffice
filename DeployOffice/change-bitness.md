@@ -8,7 +8,9 @@ ms.topic: article
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: Ent_O365
-ms.custom: Ent_Office_ProPlus
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
 description: Learn how to use the MigrateArch attribute to change the bitness of an existing installation of Office 365 ProPlus.
 ---
 

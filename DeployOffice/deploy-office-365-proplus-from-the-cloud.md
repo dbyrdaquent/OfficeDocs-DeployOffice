@@ -10,7 +10,9 @@ localization_priority: Priority
 ms.collection:
 - Ent_O365
 - M365-modern-desktop
-ms.custom: Ent_Office_ProPlus
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
 ms.assetid: b18a9110-0d14-46ec-af54-a22793ef6b38
 description: Learn how to deploy Office 365 ProPlus to client computers from the Office Content Delivery Network (CDN) by using the Office Deployment Tool (ODT).
 ---

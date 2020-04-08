@@ -10,7 +10,9 @@ localization_priority: Normal
 ms.collection: 
 - Ent_O365
 - M365-modern-desktop
-ms.custom: Ent_Office_ProPlus
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
 description: Understand how the Office cloud policy service lets you enforce policy settings for Office 365 ProPlus on a user's device.
 ---
 

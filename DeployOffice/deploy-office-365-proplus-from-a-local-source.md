@@ -10,7 +10,9 @@ localization_priority: Priority
 ms.collection:
 - Ent_O365
 - M365-modern-desktop
-ms.custom: Ent_Office_ProPlus
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
 description: Learn how to use the Office Deployment Tool (ODT) to deploy Office 365 ProPlus to client devices from a shared folder on your network.
 ---
 

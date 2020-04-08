@@ -8,7 +8,9 @@ ms.topic: get-started-article
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: Ent_O365
-ms.custom: Ent_Office_ProPlus
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
 description: Understand the Office 365 servicing model and how you can manage the releases while your organization takes advantage of the new functionality.
 ---
 

@@ -10,8 +10,10 @@ localization_priority: Priority
 ms.collection: 
 - Ent_O365
 - M365-modern-desktop
-ms.custom: Ent_Office_ProPlus
-description: "Provides information for IT Pros about shared computer activation for use in shared computer scenarios, such as deploying Office 365 ProPlus with Remote Desktop Services (RDS) "
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
+description: Learn about shared computer activation for use in shared computer scenarios, such as deploying Office 365 ProPlus with Remote Desktop Services (RDS).
 ---
 
 # Overview of shared computer activation for Office 365 ProPlus

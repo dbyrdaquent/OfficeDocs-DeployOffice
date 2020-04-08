@@ -9,7 +9,9 @@ ms.topic: get-started-article
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: Ent_O365
-ms.custom: Ent_Office_ProPlus
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
 ms.assetid: 83ede0c2-474d-4b11-8723-1984d5279a4c
 description: Learn why there are times when users see notifications that updates are available or need to be applied.
 ---

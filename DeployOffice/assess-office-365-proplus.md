@@ -11,7 +11,9 @@ localization_priority: Priority
 ms.collection: 
 - Ent_O365
 - M365-modern-desktop
-ms.custom: Ent_Office_ProPlus
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
 ms.assetid:
 description: Use the steps in this article to learn how to assess your environment and requirements before deploying Office 365 ProPlus.
 ---

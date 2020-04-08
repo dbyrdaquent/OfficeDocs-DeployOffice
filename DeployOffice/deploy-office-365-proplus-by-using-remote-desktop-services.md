@@ -7,7 +7,9 @@ audience: ITPro
 ms.topic: get-started-article
 localization_priority: Normal
 ms.collection: Ent_O365
-ms.custom: Ent_Office_ProPlus
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
 description: Learn how to install Office 365 ProPlus in a Remote Desktop Services (RDS) environment by using the Office Deployment Tool.
 ---
 

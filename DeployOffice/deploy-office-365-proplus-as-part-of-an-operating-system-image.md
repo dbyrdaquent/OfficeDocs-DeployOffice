@@ -8,7 +8,9 @@ ms.topic: get-started-article
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: Ent_O365
-ms.custom: Ent_Office_ProPlus
+ms.custom:
+- Ent_Office_ProPlus
+- seo-marvel-apr2020
 description: Learn how you can include Office 365 ProPlus as part of an operating system image that you deploy to users in your organization.
 ---
 
