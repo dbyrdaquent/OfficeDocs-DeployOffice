@@ -11,7 +11,8 @@ ms.collection: Ent_O365
 ms.custom: 
 - Ent_Office_ProPlus
 - Ent_Office_Privacy
-description: "Provides Office admins with information about essential services in Office, such as Click-to-Run and Licensing, and provides a list of events and data fields for those essential services."
+- seo-marvel-apr2020
+description: Learn about essential services in Office, such as Click-to-Run and Licensing, and view events and data fields for those essential services.
 hideEdit: true
 ---
 

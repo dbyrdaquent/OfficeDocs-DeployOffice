@@ -8,8 +8,10 @@ ms.topic: get-started-article
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: Ent_O365
-ms.custom: Ent_Office_VL
-description: "Provides Office admins with information about using Multiple Activation Key (MAK) to activate volume licensed versions of Office 2019 and Office 2016, including Project and Visio."
+ms.custom:
+- Ent_Office_VL
+- seo-marvel-apr2020
+description: Learn about using Multiple Activation Key (MAK) to activate volume licensed versions of Office 2019 and Office 2016, including Project and Visio.
 ---
 
 # Activate volume licensed versions of Office by using MAK

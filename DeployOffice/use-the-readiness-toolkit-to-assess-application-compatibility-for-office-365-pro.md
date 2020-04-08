@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.collection:
 - Ent_O365
 - M365-modern-desktop
-- seo-marvel-apr2020
 ms.custom:
 - Ent_Office_ProPlus
 - Ent_Office_Compat
-description: "Provides IT Pros with info on how the Readiness Toolkit for Office add-ins and VBA can identify compatibility issues and provide readiness info for moving to Office 365 ProPlus"
+- seo-marvel-apr2020
+description: Learn how the Readiness Toolkit for Office add-ins and VBA can identify compatibility issues and provide readiness info for moving to Office 365 ProPlus.
 ---
 
 
